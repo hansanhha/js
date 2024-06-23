@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import "./tic-tac-toe/game-style.css";
+import "./product-table/product-table.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
