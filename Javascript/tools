@@ -39,11 +39,12 @@ Deployment
 - Netlify
 - Vercel
 
+Engine
+- V8: chromium-based, electron application, runtime(node.js, deno)
+- SpiderMonkey: firefox
+- JavaScriptCore: safari, webkit-based, runtime(bun)
+
 Monitoring
 - New Relic
 - Sentry
 - LogRocket
-
-
-
-
