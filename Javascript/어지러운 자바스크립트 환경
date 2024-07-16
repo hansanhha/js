@@ -1,0 +1,49 @@
+Styling
+- Sass
+- Styled-components
+
+State
+- Redux
+- Recoil
+- Mobx
+
+Runtime
+- Node.js
+- Deno
+- Bun
+
+Framework
+- Angular
+- express.js
+
+Build Tool/Bundler
+- Webpack
+- Babel
+- Parcel
+- Rollup
+
+Code Supporting
+- ESLint
+- Prettier
+
+Dependency Management
+- npm (Node Package Manager)
+- yarn
+
+Testing
+- Jest
+- Mocha
+- Cypress
+
+Deployment
+- Netlify
+- Vercel
+
+Monitoring
+- New Relic
+- Sentry
+- LogRocket
+
+
+
+
