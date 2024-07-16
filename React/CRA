@@ -1,0 +1,11 @@
+Create-React-App
+- React
+- ReactDOM
+- webpack
+- Babel
+- ESLint
+- Jest
+- Development Server
+- Hot Module Replacement
+- Service Workers
+- .env
